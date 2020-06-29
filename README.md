@@ -1,7 +1,7 @@
 # Predicting Review Helpfulness of Amazon Electronic Products
 ## Darya Gahramanova
 
-This project focuses on predicting helpfulness of Amazon reviews using different vectorization techniques and Natural Language Processing models including TF-IDF, Gensim's Doc2Vec, Keras custom and pretrained embedding layers.
+### This project focuses on predicting helpfulness of Amazon reviews using different vectorization techniques and Natural Language Processing models including TF-IDF, Gensim's Doc2Vec, Keras custom and pretrained embedding layers.
 
 Link to the video: https://youtu.be/KM7CcvN8KLA
 
