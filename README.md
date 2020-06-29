@@ -9,7 +9,7 @@ Original dataset: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews
 
 Full paper: https://github.com/daryagah/amazon-review-helpfulness/blob/master/Predicting%20Review%20Helpfulness%20of%20Amazon%20Electronic%20Products.pdf
 
-Project notebook: https://github.com/daryagah/amazon-review-helpfulness/blob/master/final_project-helpfulness.ipynb
+Project notebook: https://github.com/daryagah/amazon-review-helpfulness/blob/master/nlp-project-helpfulness.ipynb
 
 Requirements:
 - Python3
