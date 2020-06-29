@@ -15,6 +15,7 @@ Requirements:
 - Python3
 - Numpy
 - Pandas
+- Scikit-learn
 - Tensorflow with Keras
 - Tensorflow Hub
 - Matplotlib
